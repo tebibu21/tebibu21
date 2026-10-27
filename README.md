@@ -35,25 +35,25 @@ I enjoy turning ideas into functional products, designing clear application arch
 ## `> current_focus`
 
 ```text
-                    ┌──────────────────────┐
-                    │      USER NEEDS      │
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │   FRONTEND + UX      │
-                    │React/Next.js/Tailwind│
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │   BACKEND SERVICES   │
-                    │Node.js/Express/NestJS│
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │  DATA + INTEGRATION  │
-                    │MongoDB/PostgreSQL/AI/│
-                    │         AWS          │
-                    └──────────────────────┘
+                                               ┌──────────────────────┐
+                                               │      USER NEEDS      │
+                                               └──────────┬───────────┘
+                                                          │
+                                               ┌──────────▼───────────┐
+                                               │   FRONTEND + UX      │
+                                               │React/Next.js/Tailwind│
+                                               └──────────┬───────────┘
+                                                          │
+                                               ┌──────────▼───────────┐
+                                               │   BACKEND SERVICES   │
+                                               │Node.js/Express/NestJS│
+                                               └──────────┬───────────┘
+                                                          │
+                                               ┌──────────▼───────────┐
+                                               │  DATA + INTEGRATION  │
+                                               │MongoDB/PostgreSQL/AI/│
+                                               │         AWS          │
+                                               └──────────────────────┘
 ```
 
 Currently focused on developing and improving full-stack applications, including a multi-office reporting system designed around shared functionality and office-specific data access.
