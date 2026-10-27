@@ -18,7 +18,7 @@
 
 ---
 
-## `> whoami`
+## `> who am I`
 
 I'm Tebibu Solomon, a developer focused on building full-stack web applications, reliable backend systems, and practical software solutions.
 
